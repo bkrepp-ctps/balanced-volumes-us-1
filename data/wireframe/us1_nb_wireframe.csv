@@ -1,0 +1,75 @@
+unique_id,data_id,description,description2,n_delta_y,x1,x2,y1,y2,type,showdesc,restriction,nlanes
+us_1_nb_100,us_1_nb_100,US-1 NB,North of Rt. 60 on ramp,2,150,150,10,110,main,0,none,2
+R21009,R21009,Interchange,Rt. 60 on ramp,1,150,170,60,110,ramp_on_right,0,none,1
+us_1_nb_090,us_1_nb_090,US-1 NB,North of Rt. 60 off ramp,2,150,150,110,210,main,0,none,3
+R21008,R21008,Interchange,Rt. 60 off ramp,1,170,150,210,260,ramp_off_right,0,none,1
+us_1_nb_080,us_1_nb_080,US-1 NB,North of Sargent St. off ramp,2,150,150,210,310,main,0,none,3
+R21007,R21007,Interchange,SargentSt.  off ramp,1,170,150,310,360,ramp_off_right,0,none,1
+us_1_nb_070,us_1_nb_070,US-1 NB,North of Rt. 16 on ramp,2,150,150,310,410,main,0,none,3
+R21006,R21006,Interchange,Rt. 16 on ramp,1,150,170,410,460,ramp_on_right,0,none,1
+us_1_nb_060,us_1_nb_060,US-1 NB,North of Rt. 16 off ramp,3,150,150,410,560,main,0,none,3
+R21005,R21005,Interchange,Rt. 16 off ramp,1,170,150,560,610,ramp_off_right,0,none,1
+us_1_nb_050,us_1_nb_050,US-1 NB,North of Webster Ave. off ramp,2,150,150,560,660,main,0,none,3
+R21004,R21004,Interchange,Webster Ave. off ramp,1,170,150,660,710,ramp_off_right,0,none,1
+us_1_nb_040,us_1_nb_040,US-1 NB,North of 6th St. on ramp,3,150,150,660,810,main,0,none,3
+R21003,R21003,Interchange,6th St. on ramp,1,150,170,760,810,ramp_on_right,0,none,1
+us_1_nb_030,us_1_nb_030,US-1 NB,North of 4th St. off ramp,2,150,150,810,910,main,0,none,3
+R21002,R21002,Interchange,4th St. off ramp,1,170,150,910,960,ramp_off_right,0,none,1
+us_1_nb_020,us_1_nb_020,US-1 NB,North of Beacon off ramp,3,150,150,910,1060,main,0,none,3
+R21001,R21001,Interchage,Beacon St. off ramp,1,170,150,1060,1110,ramp_off_right,0,none,1
+us_1_nb_010,us_1_nb_010,US-1 NB,North of City Square on ramp (Tobin Bridge),3,150,150,1060,1210,main,0,none,3
+R12153,R12153,Interchange,City Square on ramp,1,150,130,1160,1210,ramp_on_left,0,none,1
+r_i93_nb_us1_nb,r_i93_nb_us1_nb,US-1 NB,US-1 South of City Square on ramp,2,150,150,1210,1310,main,0,none,2
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
